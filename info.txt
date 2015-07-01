@@ -1,0 +1,3 @@
+Application for starting
+another app as it`s
+child.
